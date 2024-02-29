@@ -106,6 +106,9 @@
   "lint-staged": {
     "*.js": "eslint"
   },
+  "dependencies": {
+    "jsonwebtoken": "8.5.1"
+  },
   "devDependencies": {
     "chalk": "4.1.2",
     "concurrently": "8.2.2",
