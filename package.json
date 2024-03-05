@@ -107,7 +107,7 @@
     "*.js": "eslint"
   },
   "dependencies": {
-    "jsonwebtoken": "8.5.1"
+    "jsonwebtoken": "9.0.0"
   },
   "devDependencies": {
     "chalk": "4.1.2",
